@@ -1,0 +1,1 @@
+export const API="https://project-inventory-management.onrender.com"

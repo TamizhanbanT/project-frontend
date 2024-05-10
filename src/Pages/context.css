@@ -1,0 +1,45 @@
+
+
+
+
+.card{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: rgb(233, 234, 228);
+    border: solid 3px;
+    border-radius: 10px;
+    width: 280px;
+    height: 450px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.card-img-top{
+    height:200px
+}
+
+.container{
+
+    display:flexbox;
+
+    float: left;
+
+
+}
+
+.BRAND{
+
+    background-color: transparent;
+}
+
+.add-product-form{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+

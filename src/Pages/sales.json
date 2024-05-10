@@ -1,0 +1,430 @@
+[
+    {
+        "Month":"January 2023",
+        "Allensolley_offhand":22,
+        "Peterengland_offhand":26,
+        "Levis_offhand":21,
+        "Arrow_offhand":19,
+        "Johnplayers_offhand":29
+        
+},
+    {
+        "Month":"February 2023",
+        "Allensolley_offhand":18,
+        "Peterengland_offhand":19,
+        "Levis_offhand":23,
+        "Arrow_offhand":21,
+        "Johnplayers_offhand":17
+        
+},
+{
+    "Month":"March 2023",
+    "Allensolley_offhand":30,
+    "Peterengland_offhand":15,
+    "Levis_offhand":25,
+    "Arrow_offhand":11,
+    "Johnplayers_offhand":10
+    
+},
+{
+    "Month":"April 2023",
+    "Allensolley_offhand":19,
+    "Peterengland_offhand":21,
+    "Levis_offhand":12,
+    "Arrow_offhand":14,
+    "Johnplayers_offhand":16
+    
+},
+{
+    "Month":"May 2023",
+    "Allensolley_offhand":30,
+    "Peterengland_offhand":25,
+    "Levis_offhand":18,
+    "Arrow_offhand":19,
+    "Johnplayers_offhand":28
+    
+},
+{
+    "Month":"June 2023",
+    "Allensolley_offhand":20,
+    "Peterengland_offhand":18,
+    "Levis_offhand":16,
+    "Arrow_offhand":14,
+    "Johnplayers_offhand":15
+    
+},
+{
+    "Month":"July 2023",
+    "Allensolley_offhand":21,
+    "Peterengland_offhand":20,
+    "Levis_offhand":13,
+    "Arrow_offhand":14,
+    "Johnplayers_offhand":16
+    
+},
+{
+    "Month":"August 2023",
+    "Allensolley_offhand":23,
+    "Peterengland_offhand":16,
+    "Levis_offhand":19,
+    "Arrow_offhand":20,
+    "Johnplayers_offhand":10 
+},
+{
+    "Month":"September 2023",
+    "Allensolley_offhand":26,
+    "Peterengland_offhand":12,
+    "Levis_offhand":11,
+    "Arrow_offhand":20,
+    "Johnplayers_offhand":14
+    
+},
+{
+    "Month":"October 2023",
+    "Allensolley_offhand":15,
+    "Peterengland_offhand":25,
+    "Levis_offhand":13,
+    "Arrow_offhand":14,
+    "Johnplayers_offhand":12
+    
+},
+{
+    "Month":"November 2023",
+    "Allensolley_offhand":17,
+    "Peterengland_offhand":15,
+    "Levis_offhand":14,
+    "Arrow_offhand":12,
+    "Johnplayers_offhand":13
+    
+},
+{
+    "Month":"December 2023",
+    "Allensolley_offhand":14,
+    "Peterengland_offhand":12,
+    "Levis_offhand":12, 
+     "Arrow_offhand":13,
+    "Johnplayers_offhand":14
+},
+
+{
+    "Month":"January 2023",
+    "Allensolley_casual":20,
+    "Peterengland_casual":28,
+    "Levis_casual":25,
+    "Arrow_casual":19,
+    "Johnplayers_casual":17
+    
+},
+{
+    "Month":"February 2023",
+    "Allensolley_casual":17,
+    "Peterengland_casual":10,
+    "Levis_casual":18,
+    "Arrow_casual":16,
+    "Johnplayers_casual":17
+    
+},
+{
+"Month":"March 2023",
+"Allensolley_casual":15,
+"Peterengland_casual":10,
+"Levis_casual":12,
+"Arrow_casual":11,
+"Johnplayers_casual":11
+
+},
+{
+"Month":"April 2023",
+"Allensolley_casual":17,
+"Peterengland_casual":15,
+"Levis_casual":11,
+"Arrow_casual":10,
+"Johnplayers_casual":14
+
+},
+{
+"Month":"May 2023",
+"Allensolley_casual":15,
+"Peterengland_casual":11,
+"Levis_casual":12,
+"Arrow_casual":16,
+"Johnplayers_casual":20
+
+},
+{
+"Month":"June 2023",
+"Allensolley_casual":14,
+"Peterengland_casual":13,
+"Levis_casual":16,
+"Arrow_casual":12,
+"Johnplayers_casual":15
+
+},
+{
+"Month":"July 2023",
+"Allensolley_casual":26,
+"Peterengland_casual":20,
+"Levis_casual":12,
+"Arrow_casual":15,
+"Johnplayers_casual":16
+
+},
+{
+"Month":"August 2023",
+"Allensolley_casual":19,
+"Peterengland_casual":16,
+"Levis_casual":14,
+"Arrow_casual":21,
+"Johnplayers_casual":13 
+},
+{
+"Month":"September 2023",
+"Allensolley_casual":13,
+"Peterengland_casual":14,
+"Levis_casual":13,
+"Arrow_casual":17,
+"Johnplayers_casual":18
+
+},
+{
+"Month":"October 2023",
+"Allensolley_casual":15,
+"Peterengland_casual":15,
+"Levis_casual":23,
+"Arrow_casual":24,
+"Johnplayers_casual":15
+
+},
+{
+"Month":"November 2023",
+"Allensolley_casual":13,
+"Peterengland_casual":15,
+"Levis_casual":17,
+"Arrow_casual":18,
+"Johnplayers_casual":17
+
+},
+{
+"Month":"December 2023",
+"Allensolley_casual":16,
+"Peterengland_casual":13,
+"Levis_casual":14, 
+ "Arrow_casual":14,
+"Johnplayers_casual":20
+},
+
+{
+    "Month":"January 2023",
+    "Allensolley_formal":23,
+    "Peterengland_formal":25,
+    "Levis_formal":21,
+    "Arrow_formal":18,
+    "Johnplayers_formal":18
+    
+},
+{
+    "Month":"February 2023",
+    "Allensolley_formal":18,
+    "Peterengland_formal":11,
+    "Levis_formal":13,
+    "Arrow_formal":15,
+    "Johnplayers_formal":17
+    
+},
+{
+"Month":"March 2023",
+"Allensolley_formal":10,
+"Peterengland_formal":15,
+"Levis_formal":16,
+"Arrow_formal":13,
+"Johnplayers_formal":10
+
+},
+{
+"Month":"April 2023",
+"Allensolley_formal":14,
+"Peterengland_formal":19,
+"Levis_formal":15,
+"Arrow_formal":14,
+"Johnplayers_formal":12
+
+},
+{
+"Month":"May 2023",
+"Allensolley_formal":11,
+"Peterengland_formal":12,
+"Levis_formal":14,
+"Arrow_formal":16,
+"Johnplayers_formal":21
+
+},
+{
+"Month":"June 2023",
+"Allensolley_formal":18,
+"Peterengland_formal":11,
+"Levis_formal":14,
+"Arrow_formal":10,
+"Johnplayers_formal":9
+
+},
+{
+"Month":"July 2023",
+"Allensolley_formal":12,
+"Peterengland_formal":10,
+"Levis_formal":14,
+"Arrow_formal":19,
+"Johnplayers_formal":15
+
+},
+{
+"Month":"August 2023",
+"Allensolley_formal":18,
+"Peterengland_formal":14,
+"Levis_formal":17,
+"Arrow_formal":19,
+"Johnplayers_formal":10 
+},
+{
+"Month":"September 2023",
+"Allensolley_formal":10,
+"Peterengland_formal":15,
+"Levis_formal":12,
+"Arrow_formal":16,
+"Johnplayers_formal":19
+},
+{
+"Month":"October 2023",
+"Allensolley_formal":14,
+"Peterengland_formal":14,
+"Levis_formal":20,
+"Arrow_formal":22,
+"Johnplayers_formal":14
+
+},
+{
+"Month":"November 2023",
+"Allensolley_formal":13,
+"Peterengland_formal":16,
+"Levis_formal":18,
+"Arrow_formal":18,
+"Johnplayers_formal":20
+
+},
+{
+"Month":"December 2023",
+"Allensolley_formal":17,
+"Peterengland_formal":14,
+"Levis_formal":12, 
+ "Arrow_formal":17,
+"Johnplayers_formal":22
+},
+
+{
+    "Month":"January 2023",
+    "Allensolley_chinese":26,
+    "Peterengland_chinese":28,
+    "Levis_chinese":20,
+    "Arrow_chinese":21,
+    "Johnplayers_chinese":22
+    
+},
+{
+    "Month":"February 2023",
+    "Allensolley_chinese":19,
+    "Peterengland_chinese":10,
+    "Levis_chinese":10,
+    "Arrow_chinese":16,
+    "Johnplayers_chinese":9
+    
+},
+{
+"Month":"March 2023",
+"Allensolley_chinese":18,
+"Peterengland_chinese":10,
+"Levis_chinese":14,
+"Arrow_chinese":13,
+"Johnplayers_chinese":8
+
+},
+{
+"Month":"April 2023",
+"Allensolley_chinese":11,
+"Peterengland_chinese":13,
+"Levis_chinese":11,
+"Arrow_chinese":18,
+"Johnplayers_chinese":12
+
+},
+{
+"Month":"May 2023",
+"Allensolley_chinese":13,
+"Peterengland_chinese":10,
+"Levis_chinese":11,
+"Arrow_chinese":13,
+"Johnplayers_chinese":14
+
+},
+{
+"Month":"June 2023",
+"Allensolley_chinese":17,
+"Peterengland_chinese":18,
+"Levis_chinese":17,
+"Arrow_chinese":9,
+"Johnplayers_chinese":8
+
+},
+{
+"Month":"July 2023",
+"Allensolley_chinese":12,
+"Peterengland_chinese":12,
+"Levis_chinese":13,
+"Arrow_chinese":15,
+"Johnplayers_chinese":11
+
+},
+{
+"Month":"August 2023",
+"Allensolley_chinese":14,
+"Peterengland_chinese":19,
+"Levis_chinese":18,
+"Arrow_chinese":16,
+"Johnplayers_chinese":11 
+},
+{
+"Month":"September 2023",
+"Allensolley_chinese":10,
+"Peterengland_chinese":18,
+"Levis_chinese":11,
+"Arrow_chinese":13,
+"Johnplayers_chinese":17
+},
+{
+"Month":"October 2023",
+"Allensolley_chinese":9,
+"Peterengland_chinese":8,
+"Levis_chinese":11,
+"Arrow_chinese":17,
+"Johnplayers_chinese":10
+
+},
+{
+"Month":"November 2023",
+"Allensolley_chinese":14,
+"Peterengland_chinese":15,
+"Levis_chinese":14,
+"Arrow_chinese":19,
+"Johnplayers_chinese":12
+
+},
+{
+"Month":"December 2023",
+"Allensolley_chinese":17,
+"Peterengland_chinese":17,
+"Levis_chinese":19, 
+ "Arrow_chinese":21,
+"Johnplayers_chinese":26
+}
+
+
+
+]

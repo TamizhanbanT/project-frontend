@@ -1,0 +1,100 @@
+import React, { useState } from 'react';
+
+import { DashboardTwoTone } from '@ant-design/icons';
+import {
+  TeamOutlined,UserOutlined,
+  ProductOutlined,UsergroupAddOutlined 
+} from '@ant-design/icons';
+import { Breadcrumb, Layout, Menu, theme } from 'antd';
+import { Link } from 'react-router-dom';
+//import { Navigate } from 'react-router-dom';
+const { Header, Content, Footer, Sider } = Layout;
+function getItem(label, key, icon, children) {
+  return {
+    key,
+    icon,
+    children,
+    label,
+  };
+}
+
+
+/* function handleClick(){
+  
+  Navigate('/home/inventory')
+} */
+
+
+
+const items = [
+  getItem(<Link to="/Dashboard">Tamizh Shirt Collection</Link>, '1', <DashboardTwoTone />), 
+  /* getItem('Details', 'sub1', <UserOutlined />, [
+    getItem('Product', '3'),
+    getItem('vendors', '4'),
+  ]), */
+  getItem(<Link to="/Stocktable">Salestock</Link>, '2', <ProductOutlined/>),
+  getItem(<Link to="/Inventory">Products</Link>, '2', <ProductOutlined/>),
+  getItem('Dashboard', 'sub1', <UserOutlined />, [
+    getItem(<Link to="/Salesone">Sales</Link>, '2', <ProductOutlined/>),
+    getItem(<Link to="/salesdata">Sales data</Link>, '2', <ProductOutlined/>),
+    
+    
+    getItem(<Link to="/Brandone">Brand</Link>, '2', <ProductOutlined/>),
+  ]),
+  getItem(<Link to="/Vendors">Vendors</Link>,'3',<UsergroupAddOutlined />)
+ 
+];
+
+
+const Dashboard = () => {
+  const [collapsed, setCollapsed] = useState(false);
+  const {
+    token: { colorBgContainer, borderRadiusLG },
+  } = theme.useToken();
+  return (
+    <Layout
+      style={{
+        minHeight: '100vh',
+      }}
+    >
+      <Sider collapsible collapsed={collapsed} onCollapse={(value) => setCollapsed(value)}>
+        <div className="demo-logo-vertical" />
+        <Menu theme="dark" defaultSelectedKeys={['1']} mode="inline" items={items} />
+      </Sider>
+      <Layout>
+        <Header
+          style={{
+            padding: 0,
+            background: colorBgContainer,
+          }}
+        />
+        <Content
+          style={{
+            margin: '0 16px',
+          }}
+        >
+         {/*  <Breadcrumb
+            style={{
+              margin: '16px 0',
+            }}
+          >
+            <Breadcrumb.Item>User</Breadcrumb.Item>
+            <Breadcrumb.Item>Bill</Breadcrumb.Item>
+          </Breadcrumb> */}
+          <div
+            style={{
+              padding: 24,
+              minHeight: 360,
+              background: colorBgContainer,
+              borderRadius: borderRadiusLG,
+            }}
+          >
+            WELCOME TO TAMIZH SHIRTS COLLECTIONS
+          </div>
+        </Content>
+       
+      </Layout>
+    </Layout>
+  );
+};
+export default Dashboard;

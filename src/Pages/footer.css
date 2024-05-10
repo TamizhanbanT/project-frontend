@@ -1,0 +1,37 @@
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .footer h3 {
+    background-color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .footer p {
+    background-color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .container {
+    background-color: #333;
+    max-width: auto;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  
+  
+  
+  
+  
+  
+    
+    .col-md-6 {
+        background-color: #333;
+      width: 100%;
+    }
+  
+  
